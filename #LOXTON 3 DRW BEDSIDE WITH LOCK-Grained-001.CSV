@@ -1,0 +1,835 @@
+#thickness,repetition,unprocessed,length,width,saw blade thickness,edge cutting,number of sub-panels,panel utilization,number of layers,type,material,color,AutoCUT10.24.8.7 Standard [Solver 5.0]
+18,18,18,2800,2050,4.8,15,58,0.872098,18,Grained,,
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+0,2,0,2800,2800,3,0,-1,0,0,2050,10.2,15,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,3,15,1
+1,1,1635.2,1
+2,1,380,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+1,0,0,2800,2800,0,0,0,0,2039.8,10.2,10.2,0,$L2800_W10.2_1
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+2,4,0,2800,10.2,3,15,0,0,1655,380,380,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,2,15,1
+1,0,702,3
+2,0,649.6,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+3,0,0,10.2,10.2,0,0,2,2789.8,1655,380,380,0,$L10.2_W380_2
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+4,3,0,649.6,649.6,2,0,2,2135.4,1655,380,25.6,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,1,130,2
+1,1,80,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+5,0,0,649.6,649.6,0,0,4,2135.4,2009.4,25.6,25.6,0,$L649.6_W25.6_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+6,1,0,649.6,230.8,1,0,4,2135.4,1924.6,80,80,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,0,414,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+7,0,0,230.8,230.8,0,0,6,2554.2,1924.6,80,80,0,$L230.8_W80_4
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+8,0,0,414,414,0,0,6,2135.4,1924.6,80,80,0,1_1
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+9,1,0,649.6,262.8,1,0,4,2135.4,1789.8,130,130,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,0,382,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+10,0,0,262.8,262.8,0,0,9,2522.2,1789.8,130,130,0,$L262.8_W130_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+11,0,0,382,382,0,0,9,2135.4,1789.8,130,130,0,2_4
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+12,1,0,649.6,262.8,1,0,4,2135.4,1655,130,130,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,0,382,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+13,0,0,262.8,262.8,0,0,12,2522.2,1655,130,130,0,$L262.8_W130_6
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+14,0,0,382,382,0,0,12,2135.4,1655,130,130,0,3_4
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+15,0,0,702,702,0,0,2,1428.6,1655,380,380,0,4_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+16,0,0,702,702,0,0,2,721.8,1655,380,380,0,5_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+17,0,0,702,702,0,0,2,15,1655,380,380,0,6_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+18,3,0,2800,10.2,3,15,0,0,15,1635.2,1635.2,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,2,15,1
+1,0,1356.4,1
+2,0,702,2
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+19,0,0,10.2,10.2,0,0,18,2789.8,15,1635.2,1635.2,0,$L10.2_W1635.2_7
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+20,4,0,702,702,2,0,18,2083,15,1635.2,28,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,1,414,2
+1,1,380,2
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+21,0,0,702,702,0,0,20,2083,1622.2,28,28,0,$L702_W28_8
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+22,0,0,702,702,0,0,20,2083,1237.4,380,380,0,7_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+23,0,0,702,702,0,0,20,2083,852.6,380,380,0,8_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+24,0,0,702,702,0,0,20,2083,433.8,414,414,0,9_2
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+25,0,0,702,702,0,0,20,2083,15,414,414,0,10_2
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+26,4,0,702,702,2,0,18,1376.2,15,1635.2,28,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,1,414,2
+1,1,380,2
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+27,0,0,702,702,0,0,26,1376.2,1622.2,28,28,0,$L702_W28_9
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+28,0,0,702,702,0,0,26,1376.2,1237.4,380,380,0,11_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+29,0,0,702,702,0,0,26,1376.2,852.6,380,380,0,12_5
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+30,0,0,702,702,0,0,26,1376.2,433.8,414,414,0,13_2
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+31,0,0,702,702,0,0,26,1376.2,15,414,414,0,14_2
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+32,2,0,1356.4,1356.4,2,0,18,15,15,1635.2,80,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,1,1541.2,1
+1,1,80,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+33,3,0,1356.4,100,1,0,32,15,1561,80,80,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,0,414,3
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+34,0,0,100,100,0,0,33,1271.4,1561,80,80,0,$L100_W80_10
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+35,0,0,414,414,0,0,33,852.6,1561,80,80,0,15_1
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+36,0,0,414,414,0,0,33,433.8,1561,80,80,0,16_1
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+37,0,0,414,414,0,0,33,15,1561,80,80,0,17_1
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+38,3,0,1356.4,196,1,0,32,15,15,1541.2,1541.2,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,0,382,3
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+39,0,0,196,196,0,0,38,1175.4,15,1541.2,1541.2,0,$L196_W1541.2_11
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+40,5,0,382,382,2,0,38,788.6,15,1541.2,130,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,1,348,4
+1,1,130,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+41,0,0,382,382,0,0,40,788.6,1426.2,130,130,0,18_4
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+42,0,0,382,382,0,0,40,788.6,1073.4,348,348,0,19_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+43,0,0,382,382,0,0,40,788.6,720.6,348,348,0,20_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+44,0,0,382,382,0,0,40,788.6,367.8,348,348,0,21_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+45,0,0,382,382,0,0,40,788.6,15,348,348,0,22_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+46,5,0,382,382,2,0,38,401.8,15,1541.2,130,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,1,348,4
+1,1,130,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+47,0,0,382,382,0,0,46,401.8,1426.2,130,130,0,23_4
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+48,0,0,382,382,0,0,46,401.8,1073.4,348,348,0,24_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+49,0,0,382,382,0,0,46,401.8,720.6,348,348,0,25_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+50,0,0,382,382,0,0,46,401.8,367.8,348,348,0,26_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+51,0,0,382,382,0,0,46,401.8,15,348,348,0,27_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+52,5,0,382,382,2,0,38,15,15,1541.2,130,0,NONE
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+0,1,348,4
+1,1,130,1
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+53,0,0,382,382,0,0,52,15,1426.2,130,130,0,28_4
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+54,0,0,382,382,0,0,52,15,1073.4,348,348,0,29_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+55,0,0,382,382,0,0,52,15,720.6,348,348,0,30_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+56,0,0,382,382,0,0,52,15,367.8,348,348,0,31_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#sub-panel number,next phase sub-panels quantity,panel combination type,length,usable length,number of cutting lines,edge cutting in length,main panel number,X coordinate,Y coordinate,width,usable width,edge cutting in width,code
+57,0,0,382,382,0,0,52,15,15,348,348,0,32_3
+#cutting line number,line type (0: length cut vertical - 1: cross cut horizontal - 2: edge cutting in length vertical - 3: edge cutting in width horizontal),relative distance,repeated lines
+#layer data(label item shall conform to template label)
+#layer number,number of panels,label item
+0,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+1,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+2,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+3,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+4,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+5,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+6,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+7,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+8,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+9,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+10,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL LH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+11,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+12,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+13,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+14,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+15,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+16,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+#layer number,number of panels,label item
+17,1,32
+#code (key word - unique in the cutting pattern),BarCode,category,CutLen,CutWid,thickness,BarCodequantity,rotate,texture,Swap,TLArrow,Fill,product,material,color,Label photo,Edge,Remarks,OrderNo,Drilling,FinLength,FinWidth,Milling,GroupNo,CarNo,Routing
+1_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+2_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+3_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+4_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+5_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+6_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+7_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+8_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+9_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+10_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+11_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+12_5,S/WALL RH,Grained,702,380,18,73,0,,0,0,,,,,,,,,,,,,,,
+13_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+14_2,BACK,Grained,702,414,18,73,0,,0,0,,,,,,,,,,,,,,,
+15_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+16_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+17_1,PLINTH,Grained,414,80,18,73,0,,0,0,,,,,,,,,,,,,,,
+18_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+19_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+20_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+21_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+22_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+23_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+24_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+25_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+26_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+27_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+28_4,DRAW BACK,Grained,382,130,18,219,0,,0,0,,,,,,,,,,,,,,,
+29_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+30_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+31_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
+32_3,DRAW BOTTOM,Grained,382,348,18,219,0,,0,0,,,,,,,,,,,,,,,
